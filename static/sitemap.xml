@@ -1,71 +1,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://gridcraft-web.vercel.app</loc>
+        <loc>https://gridcraft-web-seven.vercel.app</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/quickstart</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/quickstart</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/installation</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/installation</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/introduction</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/introduction</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/columns</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/columns</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/paging</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/paging</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/grouping</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/grouping</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/rowselection</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/rowselection</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/filtering</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/filtering</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/theming</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/theming</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/api-grid</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/api-grid</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/api-column</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/api-column</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>
     <url>
-        <loc>https://gridcraft-web.vercel.app/docs/api-filter</loc>
+        <loc>https://gridcraft-web-seven.vercel.app/docs/api-filter</loc>
         <lastmod>2024-03-25T21:42:04+00:00</lastmod>
         <priority>0.64</priority>
     </url>

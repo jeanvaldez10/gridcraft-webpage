@@ -27,7 +27,7 @@
 <CookieNote on:acceptClicked={() => $tracker && $tracker.setConsentGiven()}  />
 
 {#if !dev}
-    <Matomo url={"https://analytics.gridcraft-web.vercel.app"} siteId={10} doNotTrack={true} {requireConsent} />
+    <Matomo url={"https://analytics.gridcraft-web-seven.vercel.app"} siteId={10} doNotTrack={true} {requireConsent} />
 {/if}
 
 {@render children?.()}
