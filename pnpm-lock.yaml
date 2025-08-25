@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       gridcraft:
-        specifier: 1.0.1
-        version: 1.0.1(svelte@5.38.0)
+        specifier: 1.0.2
+        version: 1.0.2(svelte@5.38.0)
     devDependencies:
       '@jsdevtools/rehype-toc':
         specifier: ^3.0.2
@@ -740,8 +740,8 @@ packages:
   good-listener@1.2.2:
     resolution: {integrity: sha512-goW1b+d9q/HIwbVYZzZ6SsTr4IgE+WA44A0GmPIQstuOrgsFcT7VEJ48nmr9GaRtNu0XTKacFLGnBPAM6Afouw==}
 
-  gridcraft@1.0.1:
-    resolution: {integrity: sha512-2f9GVcfxMPXApexkkB/sU95r6btmNCP3peZ1juJ3mhELF8+01SNbOMveCWhJsPwGzbeVjCOnB3+hnEy2+4nt2Q==}
+  gridcraft@1.0.2:
+    resolution: {integrity: sha512-NholYwWeyjsBuEfQkbgCd3v1JLrZ1dQ0jrUyzHmzgEeO3Oi8TgJL2IjA242iXuY3n6ecSI1S1jj6cRohkvucXA==}
     peerDependencies:
       svelte: ^5.0.0
 
@@ -1877,7 +1877,7 @@ snapshots:
     dependencies:
       delegate: 3.2.0
 
-  gridcraft@1.0.1(svelte@5.38.0):
+  gridcraft@1.0.2(svelte@5.38.0):
     dependencies:
       svelte: 5.38.0
 

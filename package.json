@@ -41,6 +41,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"gridcraft": "1.0.1"
+		"gridcraft": "1.0.2"
 	}
 }
